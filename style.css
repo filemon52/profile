@@ -13,6 +13,11 @@ body{
 	border: 1px solid #52dc90;
 }
 .bg-blue{
+	color: #55a8fd;
+	box-shadow: 0 0 7px 0 #55a8fd;
+	border: 1px solid #55a8fd;
+}
+.bg-blue2{
 	background-color: #55a8fd;
 	color: #fff;
 	box-shadow: 0 0 7px 0 #55a8fd;
@@ -140,7 +145,7 @@ section#boxprofile{
 }
 .information .data{
 	display: block;
-	width: 100%;
+	width: 100%; 
 	height: 36px;
 }
 .information p .field{
